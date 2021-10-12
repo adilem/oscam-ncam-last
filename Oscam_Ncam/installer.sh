@@ -3,7 +3,7 @@
 # SCRIPT : DOWNLOAD AND INSTALL Oscam_Ncam
 # ###########################################
 #
-# Command: wget https://raw.githubusercontent.com/MOHAMED19OS/Download/main/Oscam_Ncam/installer.sh -q; sh installer.sh
+# Command: wget https://raw.githubusercontent.com/adilem/oscam-ncam-last/main/Oscam_Ncam/installer.sh -q; sh installer.sh
 #
 # ###########################################
 
@@ -17,7 +17,7 @@ OSC_VERSION='11.701-emu-r798'
 NCM_VERSION='V12.2-r2'
 OSC_PACKAGE='enigma2-plugin-softcams-oscam'
 NCM_PACKAGE='enigma2-plugin-softcams-ncam'
-MY_URL='https://raw.githubusercontent.com/MOHAMED19OS/Download/main/Oscam_Ncam/'
+MY_URL='https://raw.githubusercontent.com/adilem/oscam-ncam-last/main/Oscam_Ncam/'
 
 ####################
 #  Image Checking  #
